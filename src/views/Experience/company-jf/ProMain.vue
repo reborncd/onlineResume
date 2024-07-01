@@ -60,7 +60,7 @@ import { useI18n } from 'vue-i18n'
 const { t } = useI18n()
 
 const mainList = computed(() => [t('aili.c1'), t('aili.c2'), t('aili.c3')])
-const hardList = computed(() => [t('aili.h1'), t('aili.h2'), t('aili.h3')])
+// const hardList = computed(() => [t('aili.h1'), t('aili.h2'), t('aili.h3')])
 const growList = computed(() => [
   // t('aili.g1'),
   // t('aili.g2'),
