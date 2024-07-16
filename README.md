@@ -1,3 +1,6 @@
+<!--
+ * @Author: reborncd
+-->
 # 心路历程
 
 最用心的一个项目（要恰饭敢不认真嘛）添加详尽文档，若对您有帮助，卑微求个 Star 不过分吧 T_T
@@ -8,7 +11,7 @@
 > 如果您想改成自己的建议直接 Fork。项目的目录结构、模块分层，为新入手 Vue3+TS 的同学提供参考
 > 其他的看掘金帖子上的内容就好，那上面很全，这里捡重要的说
 
-在线浏览 [resume.fridolph.top](https://resume.fridolph.top)
+在线浏览 [https://reborncd.github.io/resume/](https://reborncd.github.io/resume/)
 
 ## 简历进行了较大的修改，所以也对应一些组件的修改
 
